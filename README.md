@@ -1,4 +1,4 @@
-# alarm-clock
+# Alarm-clock
 Alarm clock using HTML, CSS, JavaScript
 
 Author - Adnan Shabir
